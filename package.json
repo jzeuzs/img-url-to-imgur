@@ -1,0 +1,29 @@
+{
+  "name": "img-url-to-imgur",
+  "version": "1.0.0",
+  "description": "upload an image url to imgur",
+  "main": "index.js",
+  "dependencies": {
+    "form-data": "^3.0.0",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1chiSensei/img-url-to-imgur.git"
+  },
+  "keywords": [
+    "img",
+    "imgur",
+    "imgurl"
+  ],
+  "author": "1chi",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/1chiSensei/img-url-to-imgur/issues"
+  },
+  "homepage": "https://github.com/1chiSensei/img-url-to-imgur#readme"
+}
