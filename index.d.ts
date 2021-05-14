@@ -1,5 +1,7 @@
-export function Imgur(clientId: string): void;
+declare class Imgur {
+	constructor(clientId: string);
 
-export namespace Imgur {
-	function upload(url: string): Promise<string>
+	upload(url: string): Promise<string>;
 }
+
+export = Imgur;
